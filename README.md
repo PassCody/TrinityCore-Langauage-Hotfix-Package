@@ -22,10 +22,10 @@ This repository contains SQL hotfixes for language packages in TrinityCore. They
 
 ## Instructions
 
-1. **Select your TrinityCore database:**
+1. **Select your TrinityCore world database:**
 
    ```sql
-   USE your_trinitycore_database;
+   USE your_trinitycore_world_database;
    ```
 
 2. **Run the SQL file:**
