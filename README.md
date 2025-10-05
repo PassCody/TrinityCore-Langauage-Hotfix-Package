@@ -33,7 +33,7 @@ This repository contains SQL hotfixes for language packages in TrinityCore. They
    * Using MySQL CLI:
 
      ```bash
-     mysql -u <user> -p your_trinitycore_database < hotfix_german.sql
+     mysql -u <user> -p your_trinitycore_world_database < hotfix_german.sql
      ```
    * Or via GUI tools (MySQL Workbench, HeidiSQL, phpMyAdmin):
 
